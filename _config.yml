@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Song NIE (聂嵩)"
-description              : "Focusing on video and speech large generation model."
+description              : "Focusing on improving badminton and marathon skills."
 repository               : "rayeren/rayeren.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -37,14 +37,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "RayeRen"
+  github           : #"RayeRen"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "rayeren"
-  dblp             : "https://dblp.org/pid/75/6568-6.html"
+  linkedin         : #"rayeren"
+  dblp             : #"https://dblp.org/pid/75/6568-6.html"
   orcid            : "https://orcid.org/0000-0002-9160-3848"
   pinterest        :
   soundcloud       :
