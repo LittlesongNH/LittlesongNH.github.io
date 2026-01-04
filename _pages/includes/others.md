@@ -1,8 +1,8 @@
 
 # 📖 Educations
 - Ph.D in Public Finance, Nankai University, 2025.
-- *2015.09 - 2019.06*, Undergraduate, Chu Kochen Honors College, Zhejiang Univeristy, Hangzhou.
-- *2012.09 - 2016.06*, , Taizhou.
+- M.S. in Accounting, Nanjing University of Aeronautics and Astronautics, 2020.
+- B.S. in Accounting, Nanjing University of Aeronautics and Astronautics, 2016.
 
 # 💬 Invited Talks
 - *2022.02*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
