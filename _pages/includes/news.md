@@ -1,6 +1,7 @@
 # 🔥 News
-- *2024.03*: 🎉 Two papers are accepted by ICLR 2024
-- *2023.05*: 🎉 Five papers are accepted by ACL 2023
-- *2023.01*: DiffSinger was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) (2000k+ views) in Bilibili!
-- *2023.01*: I join TikTok <img src='./images/tiktok.png' style='width: 6em;'> as a speech research scientist in Singapore!
-- *2022.02*: I release a modern and responsive academic personal [homepage template](https://github.com/RayeRen/acad-homepage.github.io). Welcome to STAR and FORK!
+- *2025.12*: 🎉 Three papers are accepted by Energy Economics, IRFA, and Economics Letters （ABS 3）.
+- *2025.08*: 🎉 I publish my first Chinese paper in 财贸经济.
+- *2025.06*: 🎉 Ginling College, Nanjing Normal University gave me valuable teaching position，I got a nice job.
+- *2024.10*: 🎉 I won the National Scholarship.
+- *2023.11*: I completed my first full marathon in Nanjing (Time: 4 hours 30 minutes).
+- *2023.09*: My first paper was published in Finance Research Letters, a nice startart.
