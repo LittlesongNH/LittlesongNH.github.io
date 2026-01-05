@@ -20,4 +20,5 @@ How does local government fiscal pressure affect corporate ESG performance?],  Q
 - `Finance Research Letters 2024` [Impact of increasing the supply of rural finance on agricultural total factor productivity: Evidence from China], **Song Nie**, Qiang Ji. [中科院2区TOP ABS 2星]
 - `Global Nest Journal 2024` [Carbon emission intensity measurement and spatial effect of high energy consuming industries: evidence from China], Gang Zeng, Dantong Liu, **Song Nie**, etc.
 - `Global Nest Journal 2024` [Spatial characteristic of carbon emission intensity under "dual carbon" targets: Evidence from China], Gang Zeng, Yi Guo, **Song Nie**, etc.
+- `Sustainability 2025` [The Impact of the Convergence of Advanced Manufacturing and Modern Services on Green Innovation Efficiency], Hongying Zhang, **Song Nie**, Liyang Wan.
 - `Finance Research Letters 2023` [Local government debt pressure and corporate ESG performance: Empirical evidence from China], **Song Nie**, Junxian Liu, Gang Zeng, Jiyuan You. [中科院2区TOP ABS 2星]
