@@ -15,7 +15,7 @@ Impact of relaxing internal-migration restrictions on agricultural TFP of rural 
 - `Sustainability 2025` [The Impact of the Convergence of Advanced Manufacturing and Modern Services on Green Innovation Efficiency], Hongying Zhang, **Song Nie**, Liyang Wan. [中科院2区].
 - `Sustainability 2025` [The Effects of the Sci-Tech Finance Policy on Urban Green Technology Innovation: Evidence from 283 Cities in China], Hongying Zhang, Liyang Wan, Qiaozhe Guo, **Song Nie**.[中科院2区].
 -  `Finance Research Letters 2024` [“Good medicine is bitter” or “drinking poison to quench thirst”? The impact of maturity mismatch on corporate ESG performance], **Song Nie**, Qiang Ji.[中科院2区TOP ABS 2星]
-- `Economic Analysis and Policy 2024` [Does local government debt pressure hamper green transition? Evidence from China], **Song Nie**, Gang Zeng; Xu Zhang; Qiaozhe Guo. [ABS 1星].
+- `Economic Analysis and Policy 2024` [Does local government debt pressure hamper green transition? Evidence from China], **Song Nie**, Gang Zeng, Xu Zhang, Qiaozhe Guo. [ABS 1星].
 - `Finance Research Letters 2024` [
 How does local government fiscal pressure affect corporate ESG performance?],  Qiang Ji, **Song Nie**. [中科院2区TOP ABS 2星].
 - `Energy 2024` [Government auditing and urban energy efficiency in the context of the digital economy: Evidence from China's Auditing System reform], Junxian Liu, **Song Nie**, Tiantian Lin. [中科院1区TOP]
