@@ -6,9 +6,9 @@
 
 # 💬 Courses
 - Research Methods in Accounting
-   Fall 2025
+  : Fall 2025
 - Academic Integrity and Thesis Writing
-   Spring 2026
+  : Spring 2026
 
 # 💻 Work Experience
 - *2016.07 - 2017.07*, Volunteer teacher at Liyang School, Pingba, Guizhou (West Project).
