@@ -17,3 +17,5 @@ Impact of relaxing internal-migration restrictions on agricultural TFP of rural 
 - `Finance Research Letters 2024` [
 How does local government fiscal pressure affect corporate ESG performance?],  Qiang Ji, **Song Nie**. [ABS 2星].
 - `Energy 2024` [Government auditing and urban energy efficiency in the context of the digital economy: Evidence from China's Auditing System reform], Junxian Liu, **Song Nie**, Tiantian Lin. [中科院1区TOP]
+- `Finance Research Letters 2024` [Impact of increasing the supply of rural finance on agricultural total factor productivity: Evidence from China], **Song Nie**, Qiang Ji. [中科院2区TOP ABS 2星]
+- `Finance Research Letters 2023` [Local government debt pressure and corporate ESG performance: Empirical evidence from China], **Song Nie**, Junxian Liu, Gang Zeng, Jiyuan You. [中科院2区TOP ABS 2星]
