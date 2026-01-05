@@ -14,11 +14,11 @@ Impact of relaxing internal-migration restrictions on agricultural TFP of rural 
 - `Sustainability 2025` [The Impact of the Convergence of Advanced Manufacturing and Modern Services on Green Innovation Efficiency], Hongying Zhang, **Song Nie**, Liyang Wan. [中科院2区].
 - `Sustainability 2025` [The Effects of the Sci-Tech Finance Policy on Urban Green Technology Innovation: Evidence from 283 Cities in China], Hongying Zhang, Liyang Wan, Qiaozhe Guo, **Song Nie**.[中科院2区].
 - ``Economic Modelling 2024`` [Does intellectual property rights protection matter for low-carbon transition? The role of institutional incentives], **Song Nie**. [ABS 2星].
--  `Finance Research Letters 2024` [“Good medicine is bitter” or “drinking poison to quench thirst”? The impact of maturity mismatch on corporate ESG performance], **Song Nie**; Qiang Ji.[ABS 2星]
+-  `Finance Research Letters 2024` [“Good medicine is bitter” or “drinking poison to quench thirst”? The impact of maturity mismatch on corporate ESG performance], **Song Nie**; Qiang Ji.[中科院2区TOP ABS 2星]
 - `International Review of Economics & Finance 2024` [The local government fiscal pressure's effect on green total factor productivity: Exploring mechanisms from the perspective of government behavior], **Song Nie**; Gang Zeng; Hongying Zhang; Jianwen Ji.[ABS 2星]
 - `Economic Analysis and Policy 2024` [Does local government debt pressure hamper green transition? Evidence from China], **Song Nie**; Gang Zeng; Xu Zhang; Qiaozhe Guo. [ABS 1星].
 - `Finance Research Letters 2024` [
-How does local government fiscal pressure affect corporate ESG performance?],  Qiang Ji, **Song Nie**. [ABS 2星].
+How does local government fiscal pressure affect corporate ESG performance?],  Qiang Ji, **Song Nie**. [中科院2区TOP ABS 2星].
 - `Energy 2024` [Government auditing and urban energy efficiency in the context of the digital economy: Evidence from China's Auditing System reform], Junxian Liu, **Song Nie**, Tiantian Lin. [中科院1区TOP]
 - `Finance Research Letters 2024` [Impact of increasing the supply of rural finance on agricultural total factor productivity: Evidence from China], **Song Nie**, Qiang Ji. [中科院2区TOP ABS 2星]
 - `Global Nest Journal 2024` [Carbon emission intensity measurement and spatial effect of high energy consuming industries: evidence from China], Gang Zeng, Dantong Liu, **Song Nie**, etc.
