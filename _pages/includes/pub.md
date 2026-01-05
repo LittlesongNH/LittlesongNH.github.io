@@ -10,6 +10,8 @@
 No place to hide: how supply chain digitalization curbs environmental moral hazard], Qiaozhe Guo, Yue Zhen, **Song Nie**, Nengzhi Yao. [ABS 2星].
 - ``Applied Economics Letters 2025`` [
 Impact of relaxing internal-migration restrictions on agricultural TFP of rural households: evidence from China], Qiang Ji, **Song Nie**. [ABS 1星].
+- `Sustainability 2025` [The Impact of the Convergence of Advanced Manufacturing and Modern Services on Green Innovation Efficiency], Hongying Zhang, **Song Nie**, Liyang Wan. [中科院2区].
+- `Sustainability 2025` [The Effects of the Sci-Tech Finance Policy on Urban Green Technology Innovation: Evidence from 283 Cities in China], Hongying Zhang, Liyang Wan, Qiaozhe Guo, **Song Nie**.[中科院2区].
 - ``Economic Modelling 2024`` [Does intellectual property rights protection matter for low-carbon transition? The role of institutional incentives], **Song Nie**. [ABS 2星].
 -  `Finance Research Letters 2024` [“Good medicine is bitter” or “drinking poison to quench thirst”? The impact of maturity mismatch on corporate ESG performance], **Song Nie**; Qiang Ji.[ABS 2星]
 - `International Review of Economics & Finance 2024` [The local government fiscal pressure's effect on green total factor productivity: Exploring mechanisms from the perspective of government behavior], **Song Nie**; Gang Zeng; Hongying Zhang; Jianwen Ji.[ABS 2星]
@@ -20,5 +22,4 @@ How does local government fiscal pressure affect corporate ESG performance?],  Q
 - `Finance Research Letters 2024` [Impact of increasing the supply of rural finance on agricultural total factor productivity: Evidence from China], **Song Nie**, Qiang Ji. [中科院2区TOP ABS 2星]
 - `Global Nest Journal 2024` [Carbon emission intensity measurement and spatial effect of high energy consuming industries: evidence from China], Gang Zeng, Dantong Liu, **Song Nie**, etc.
 - `Global Nest Journal 2024` [Spatial characteristic of carbon emission intensity under "dual carbon" targets: Evidence from China], Gang Zeng, Yi Guo, **Song Nie**, etc.
-- `Sustainability 2025` [The Impact of the Convergence of Advanced Manufacturing and Modern Services on Green Innovation Efficiency], Hongying Zhang, **Song Nie**, Liyang Wan.
 - `Finance Research Letters 2023` [Local government debt pressure and corporate ESG performance: Empirical evidence from China], **Song Nie**, Junxian Liu, Gang Zeng, Jiyuan You. [中科院2区TOP ABS 2星]
