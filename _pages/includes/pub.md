@@ -2,6 +2,7 @@
 # 📝 Representative Publications 
 
 - `财贸经济 2025` [鱼和熊掌如何兼顾：法定债务压力下的融资平台风险治理研究], 郭玉清, **聂嵩**, 陈创练, 汪昊. [《高等学校文科学术文摘》全文转载]
+- `统计与决策 2025` [数据要素流动环境与企业ESG表现], 尤继远, 张兵, **聂嵩**, 张昭.
 - ``Energy Economics 2025`` [Local government debt pressure and low-carbon economy: The mechanism based on the perspective of government behavior], **Song Nie**, Shihao Wang. [ABS 3星，中科院1区TOP]
 - `International Review of Financial Analysis 2025` [Break down data silos: Does public data openness improve corporate ESG performance?], **Song Nie**, Shihao Wang, and Qiang Ji. [ABS 3星，中科院2区TOP]
 - ``Economics Letters 2025`` [The power of public data: How does public data shape the spatial distribution of China's AI Firms?], Qiang Ji, **Song Nie**. [ABS 3星].
