@@ -1,4 +1,4 @@
-I am an accounting Lecturer at Ginling College, Nanjing Normal University, China (2025-present). As an MA student adviser, I am now working on corporate finance and digital economy research. If you are seeking any form of academic cooperation or want to be my MA student, please feel free to email me at [dante_songn@nnu.edu.cn](mailto:dante_songn@nnu.edu.cn). I work at Room 411, The Yifu Building at Suiyuan Campus.
+I am an accounting Lecturer at Ginling College, Nanjing Normal University, China (2025-present). As an MA student adviser, I am now working on corporate finance and digital economy research. **If you are seeking any form of academic cooperation or want to be my MA student, please feel free to email me at [dante_songn@nnu.edu.cn](mailto:dante_songn@nnu.edu.cn).** I work at Room 411, The Yifu Building at Suiyuan Campus.
 
 I graduated from the School of Economics, Nankai University with a doctor's degree and from the College of Economics and Management, Nanjing University of Aeronautics and Astronautics with a master's degree.  
 
