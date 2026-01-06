@@ -25,7 +25,7 @@ author:
   avatar           : "images/个人照.jpg"
   bio              : ""
   location         : "Nanjing, China"
-  employer         : "Ginling College, Nanjing Normal University"
+  employer         :  # "Ginling College, Nanjing Normal University"
   pubmed           : 
   googlescholar    :  # "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
   email            : "dante_songn@nnu.edu.cn"
