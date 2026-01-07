@@ -5,6 +5,7 @@
 - `Economic Modelling 2024` [Does intellectual property rights protection matter for low-carbon transition? The role of institutional incentives], **Song Nie**. [ABS 2星, 中科院2区].
 - `International Review of Economics & Finance 2024` [The local government fiscal pressure's effect on green total factor productivity: Exploring mechanisms from the perspective of government behavior], **Song Nie**, Gang Zeng, Hongying Zhang, Jianwen Ji.[ABS 2星, 中科院2区]
 # 📝 Other Publications 
+-`Economic Modelling 2026` [IPR Protection and Market Power: Innovation Incentives vs. Markup Distortions in China],Lihao Wang,**Song Nie**. [ABS 2星, 中科院2区].
 - `财贸经济 2025` [鱼和熊掌如何兼顾：法定债务压力下的融资平台风险治理研究], 郭玉清, **聂嵩**, 陈创练, 汪昊. [《高等学校文科学术文摘》全文转载]
 - `统计与决策 2025` [数据要素流动环境与企业ESG表现], 尤继远, 张兵, **聂嵩**, 张昭.
 - `Economics Letters 2025` [The power of public data: How does public data shape the spatial distribution of China's AI Firms?], Qiang Ji, **Song Nie**. [ABS 3星].
