@@ -3,7 +3,7 @@
 - `International Review of Financial Analysis 2025` [Break down data silos: Does public data openness improve corporate ESG performance?], **Song Nie**, Shihao Wang, and Qiang Ji. [**ABS 3星**, 中科院2区TOP]
 - `Empirical Economics 2025` [How does fiscal pressure affect corporate green transformation? A quasi-natural experiment based on education authority reform], **Song Nie**. [ABS 2星]
 - `Economic Modelling 2024` [Does intellectual property rights protection matter for low-carbon transition? The role of institutional incentives], **Song Nie**. [ABS 2星, 中科院2区].
-- `International Review of Economics & Finance 2024` [The local government fiscal pressure's effect on green total factor productivity: Exploring mechanisms from the perspective of government behavior], **Song Nie**, Gang Zeng, Hongying Zhang, Jianwen Ji.[ABS 2星, 中科院2区]
+- `Applied Economics 2026` [Relaxing Data Flow Restriction and Corporate Cash Holdings: Evidence from China’s Data Trading Platforms], **Song Nie**, Chenghao Xie, Nengzhi Yao, Qiang Ji.[ABS 2星]
 # 📝 Other Publications 
 - `Economics of Innovation and New Technology 2026` [When Machines Set Prices: Artificial Intelligence Investment and Firm Markups in China], Jianwen Ji, Junfeng Liu, **Song Nie**. [ABS 2星]. Forthcoming.
 - `Economic Modelling 2026` [IPR Protection and Markup in China: Balancing Innovation Incentives and Markup Distortions], Lihao Wang, Jiwen Chai, **Song Nie**, Shangrong Han. [ABS 2星, 中科院2区].
@@ -16,6 +16,7 @@ No place to hide: how supply chain digitalization curbs environmental moral haza
 Impact of relaxing internal-migration restrictions on agricultural TFP of rural households: evidence from China], Qiang Ji, **Song Nie**. [ABS 1星].
 - `Sustainability 2025` [The Impact of the Convergence of Advanced Manufacturing and Modern Services on Green Innovation Efficiency], Hongying Zhang, **Song Nie**, Liyang Wan. [中科院2区].
 - `Sustainability 2025` [The Effects of the Sci-Tech Finance Policy on Urban Green Technology Innovation: Evidence from 283 Cities in China], Hongying Zhang, Liyang Wan, Qiaozhe Guo, **Song Nie**.[中科院2区].
+- `International Review of Economics & Finance 2024` [The local government fiscal pressure's effect on green total factor productivity: Exploring mechanisms from the perspective of government behavior], **Song Nie**, Gang Zeng, Hongying Zhang, Jianwen Ji.[ABS 2星, 中科院2区]
 -  `Finance Research Letters 2024` [“Good medicine is bitter” or “drinking poison to quench thirst”? The impact of maturity mismatch on corporate ESG performance], **Song Nie**, Qiang Ji.[中科院2区TOP, ABS 2星]
 - `Economic Analysis and Policy 2024` [Does local government debt pressure hamper green transition? Evidence from China], **Song Nie**, Gang Zeng, Xu Zhang, Qiaozhe Guo. [中科院2区TOP, ABS 1星].
 - `Finance Research Letters 2024` [How does local government fiscal pressure affect corporate ESG performance?],  Qiang Ji, **Song Nie**. [中科院2区TOP, ABS 2星].
