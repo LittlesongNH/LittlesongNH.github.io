@@ -5,11 +5,16 @@
 - B.S. in Accounting, Nanjing University of Aeronautics and Astronautics, 2016.
 
 # 💬 Courses
-- Research Methods in Accounting: Fall 2025
-- Academic Integrity and Thesis Writing: Spring 2026
-
+- Research Methods in Accounting: Fall 2025.
+- Academic Integrity and Thesis Writing: Spring 2026.
+- Big Data and Accounting: Fall 2026.
+- Big Data and Financial Management: Fall 2026.
+- Marketing Management: Fall 2026.
+  
 # 💻 Work Experience
 - *2016.07 - 2017.07*, Volunteer teacher at Liyang School, Pingba, Guizhou (West Project).
 - *2020.07 - 2020.11*, Changshu Rural Commercial Bank, Suzhou.
 - *2025.06 - Present*, Ginling College, Nanjing Normal University.
 - *2025.12 - Present*, Council Member of the Jiangsu Domestic Service Association, Nanjing.
+- *2026.02 - Present*, the Member of Chinese Economist Society.
+- *2026.09 - Present*, Journal of Business Economics, Promotion Editor.
