@@ -16,5 +16,6 @@
 - *2020.07 - 2020.11*, Changshu Rural Commercial Bank, Suzhou.
 - *2025.06 - Present*, Ginling College, Nanjing Normal University.
 - *2025.12 - Present*, Council Member of the Jiangsu Domestic Service Association, Nanjing.
-- *2026.02 - Present*, the Member of Chinese Economist Society.
+- *2026.02 - Present*, Member of Chinese Economist Society.
 - *2026.09 - Present*, Journal of Business Economics, Promotion Editor.
+- *2026.12 - Present*, Member of Royal Economic Society.
